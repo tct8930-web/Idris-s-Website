@@ -17,8 +17,15 @@ p {
   font-size: 18px;
   line-height: 1.6;
 }
-body {
-  background-color: red !important;
+
+nav {
+  margin-bottom: 30px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
 }
 .button {
   display: inline-block;
