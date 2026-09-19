@@ -21,7 +21,10 @@ p {
 }
 
 nav {
+  padding: 15px;
   margin-bottom: 30px;
+  border-radius: 8px;
+  background: #eaeaea;
 }
 
 nav a {
