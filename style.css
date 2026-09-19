@@ -60,3 +60,7 @@ header {
 nav a:hover {
   text-decoration: underline;
 }
+header p {
+  font-size: 20px;
+  margin-top: 10px;
+}
