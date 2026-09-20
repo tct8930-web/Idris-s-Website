@@ -96,3 +96,6 @@ header p {
   border-radius: 10px;
   background: #ffffff;
 }
+.button:hover {
+  transform: scale(1.05);
+}
