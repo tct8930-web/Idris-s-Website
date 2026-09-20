@@ -112,3 +112,18 @@ form button:hover {
         padding: 20px;
     }
 }
+.project {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #fafafa;
+}
+
+.project h3 {
+    margin-top: 0;
+}
+
+.project strong {
+    font-size: 18px;
+}
