@@ -69,3 +69,9 @@ header p {
   font-size: 20px;
   margin-top: 10px;
 }
+#skills {
+  margin-top: 40px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #ffffff;
+}
