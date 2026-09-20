@@ -103,3 +103,6 @@ header p {
 .project {
   border: 1px solid #ddd;
 }
+a[href="#about"] {
+  margin-bottom: 20px;
+}
