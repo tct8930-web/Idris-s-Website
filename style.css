@@ -62,8 +62,12 @@ header {
   background: #333;
   color: white;
 }
+nav a {
+  transition: 0.3s;
+}
+
 nav a:hover {
-  text-decoration: underline;
+  opacity: 0.6;
 }
 header p {
   font-size: 20px;
