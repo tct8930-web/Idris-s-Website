@@ -75,10 +75,15 @@ header p {
   margin-top: 10px;
 }
 #skills {
-  margin-top: 40px;
-  padding: 20px;
-  border-radius: 10px;
-  background: #ffffff;
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    background: #ffffff;
+}
+
+#skills p {
+    font-size: 18px;
+    font-weight: bold;
 }
 #about {
   margin-top: 40px;
