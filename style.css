@@ -106,3 +106,6 @@ header p {
 a[href="#about"] {
   margin-bottom: 20px;
 }
+.project a:hover {
+  opacity: 0.8;
+}
